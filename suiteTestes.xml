@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteTestes" parallel="false">
+    <test name="TreinamentoRestAssuredTests">
+        <classes>
+            <class name="Base2.Adiciona_Pet_JsonClasses"/>
+            <class name="Base2.Pesquisa_Pet"/>
+            <class name="Base2.Atualiza_Pet"/>
+            <class name="Base2.Cadastrar_Pedido"/>
+            <class name="Base2.Cadastro_Usuario"/>
+        </classes>
+    </test>
+</suite>
